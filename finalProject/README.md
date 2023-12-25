@@ -36,3 +36,6 @@
 ### 4) [tRNAscan](http://lowelab.ucsc.edu/cgi-bin/tRNAscan-SE2.cgi) и [ARAGORN](http://www.ansikte.se/ARAGORN/)
 ![](images/trna.png)
 ![](images/aragorn.png)
+
+Точных пересечений не найдено, но в целом результаты вышли схожими (похожи координаты, аминокислоты). tRNAscan выдал на 4 находки больше.
+
