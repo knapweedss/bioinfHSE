@@ -12,6 +12,10 @@
 ---
 # Отчет
 
-1. Получаем рамки считывания (OPC) по [ORFfined](https://www.ncbi.nlm.nih.gov/orffinder/)
+### Получаем рамки считывания (OPC) по [ORFfined](https://www.ncbi.nlm.nih.gov/orffinder/)
+
 ![](images/1.png)
-2. 
+
+### Ищем гены по [BLASTP](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins)
+
+Сначала осуществляем поиск по Uniprot, в колабе скрипт для получения файлов с рамками считывания (`sorted_ORF.fasta`), результирующий файл я планировала прогнать по RefSeq, однако, результаты бласта выдавали пустой csv. В итоге разбила файл на части (чтобы не падало из-за нехватки CPU) и прогнала по non-redundant.
