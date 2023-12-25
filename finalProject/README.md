@@ -7,4 +7,4 @@
   - `fragment10.fasta` - мой файл для работы
   - `__all.fa` - все рамки считывания (ОРС)
   - `blast_res.csv` - blastp по uniprot
-  - 
+  - `blast_NR.csv` - blastp по non-redundant
