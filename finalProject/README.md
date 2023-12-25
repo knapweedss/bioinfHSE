@@ -31,5 +31,8 @@
 
 ### 3) Смотрим количество хороших находок
 Берем порог по identity не менее 85, e-value меньше или равно 0.05, фильтруем (в т.ч. удаляем дупликаты и т.д.)
+![](images/good.png)
 
-
+### 4) [tRNAscan](http://lowelab.ucsc.edu/cgi-bin/tRNAscan-SE2.cgi) и [ARAGORN](http://www.ansikte.se/ARAGORN/)
+![](images/trna.png)
+![](images/aragorn.png)
