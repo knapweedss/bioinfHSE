@@ -12,11 +12,11 @@
 ---
 # Отчет
 
-### Получаем рамки считывания (OPC) по [ORFfined](https://www.ncbi.nlm.nih.gov/orffinder/)
+### 1) Получаем рамки считывания (OPC) по [ORFfined](https://www.ncbi.nlm.nih.gov/orffinder/)
 
 ![](images/1.png)
 
-### Ищем гены по [BLASTP](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins)
+### 2) Ищем гены по [BLASTP](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins)
 
 ![](images/2.png)
 
