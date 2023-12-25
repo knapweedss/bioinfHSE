@@ -3,6 +3,7 @@
 ## Выполнила: Долгодворова Маша
 ----
 ### Содержание:
+- `Dolgodvorova_project_bioinf.ipynb` - код
 - `files` - папка со всеми необходимыми файлами
   - `fragment10.fasta` - мой файл для работы
   - `__all.fa` - все рамки считывания (ОРС)
@@ -11,6 +12,7 @@
   - `aragorn.txt` - выдача [ARAGORN](http://www.ansikte.se/ARAGORN/)
   - `trna.fasta` - выдача [tRNAscan](http://lowelab.ucsc.edu/cgi-bin/tRNAscan-SE2.cgi)
   - также файлы, полученные samtools
+  - `result.gb` - итоговый файл
  
 - `images` - папка с необходимыми картинками
 
