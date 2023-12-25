@@ -13,5 +13,5 @@
 # Отчет
 
 1. Получаем рамки считывания (OPC) по [ORFfined](https://www.ncbi.nlm.nih.gov/orffinder/)
-![](/images/1.png)
+![](images/1.png)
 2. 
