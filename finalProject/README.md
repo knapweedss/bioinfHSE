@@ -8,3 +8,10 @@
   - `__all.fa` - все рамки считывания (ОРС)
   - `blast_res.csv` - blastp по uniprot
   - `blast_NR.csv` - blastp по non-redundant
+
+---
+# Отчет
+
+1. Получаем рамки считывания (OPC) по [ORFfined](https://www.ncbi.nlm.nih.gov/orffinder/)
+![](images/.png)
+2. 
